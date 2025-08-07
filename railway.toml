@@ -10,3 +10,5 @@ restartPolicyMaxRetries = 10
 [build.env]
 MAVEN_OPTS = "-Xmx1024m -XX:MaxMetaspaceSize=256m"
 JAVA_TOOL_OPTIONS = "-Xmx1024m"
+NIXPACKS_JDK_VERSION = "21"
+JAVA_VERSION = "21"
